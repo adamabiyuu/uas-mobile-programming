@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531602764064",
+    "project_id": "review-jam-tangan",
+    "storage_bucket": "review-jam-tangan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531602764064:android:448cf297f73ac27b452745",
+        "android_client_info": {
+          "package_name": "com.company.review_jam_tangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEEYGZUh4_Qtr84feLnSM0HzVRXqLI80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531602764064:android:851891f38a8b2a32452745",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEEYGZUh4_Qtr84feLnSM0HzVRXqLI80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
